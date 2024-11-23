@@ -7,7 +7,7 @@ function About() {
       <div className="container">
         <h2>About Me</h2>
         <p>
-          I am Earl Lawrence Engao, a passionate and creative web developer with a deep interest in crafting seamless and visually captivating user experiences. My journey began with a solid foundation in education, having graduated from Naga Central School in elementary, followed by high school, and eventually completing senior high school at [Your Senior High School Name]. Currently, I am continuing my studies at NCF to further hone my skills.
+          I am Earl Lawrence Engao, a passionate and creative web developer with a deep interest in crafting seamless and visually captivating user experiences. My journey began with a solid foundation in education, having graduated from Naga Central School in elementary, followed by high school, and eventually completing senior high school at Camarines Sur National High School. Currently, I am continuing my studies at NCF to further hone my skills.
         </p>
         <p>
           With a strong background in web development, I specialize in creating engaging websites and applications that are not only functional but also user-friendly and aesthetically pleasing. Combining my technical skills with a creative mindset, I strive to deliver solutions that are both innovative and effective, bringing ideas to life through clean and efficient code.
